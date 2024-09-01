@@ -15,12 +15,15 @@ To address this difficulty, we propose an improved version of the ESFFT fuzzy de
 
 ## The detection results of the ESFFT method are as follows:
 
-### Clear images with sparse textures
+### Clear images with sparse textures and it effective response area
 
-<img width="247" alt="1a0ef50f019be93427eb199f64d77fb" src="https://github.com/user-attachments/assets/68d44f5b-3e6d-446e-9721-7f7ded978386">
+<img width="500" alt="1a0ef50f019be93427eb199f64d77fb" src="https://github.com/user-attachments/assets/68d44f5b-3e6d-446e-9721-7f7ded978386">
+<img width="500" alt="a4ba840476af46a659689994b7c0134" src="https://github.com/user-attachments/assets/f3565001-0543-4c6b-a195-2bd578c9d582">
 
-### Blurred images with rich textures
 
-<img width="226" alt="5f9385bccd0feebef4b02d34ea1c17c" src="https://github.com/user-attachments/assets/82d0f6d4-0d3d-433d-baff-485d897327c2">
+### Blurred images with rich textures and it effective response area
+
+<img width="500" alt="5f9385bccd0feebef4b02d34ea1c17c" src="https://github.com/user-attachments/assets/82d0f6d4-0d3d-433d-baff-485d897327c2">
+<img width="500" alt="237368f9bed2913843c674327774153" src="https://github.com/user-attachments/assets/3c6f6f5f-2187-48b1-ac18-8ff5fbae6c4a">
 
 
