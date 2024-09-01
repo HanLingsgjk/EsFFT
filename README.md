@@ -8,7 +8,6 @@ The detection results of the traditional FFT method are as follows:
 Clear images with sparse textures
 
 <img width="226" alt="9ad8ac80594f5949070337a9cd69661" src="https://github.com/user-attachments/assets/ffd8d1be-cb10-4f75-90ec-07d7b09bdabb">
-
 Blurred images with rich textures
 <img width="227" alt="ecab2bb658c5882389ca529d69295dc" src="https://github.com/user-attachments/assets/772bf0ff-ac29-4a18-8fe7-4bb4fed9dab6">
 
