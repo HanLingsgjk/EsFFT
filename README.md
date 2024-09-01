@@ -29,3 +29,14 @@ To address this difficulty, we propose an improved version of the ESFFT fuzzy de
 
 ## Run Demo
 
+numpy_demo.py  is a demo file based on numpy, through which you can reproduce the effect shown in the above figure.
+
+
+## Install
+install by pip
+'''
+pip install opencv-python
+pip install numpy
+pip install matplotlib
+'''
+
