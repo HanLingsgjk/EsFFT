@@ -33,10 +33,10 @@ numpy_demo.py  is a demo file based on numpy, through which you can reproduce th
 
 
 ## Install
-install by pip
-'''
+
+```Shell
+pip install matplotlib==3.5
 pip install opencv-python
 pip install numpy
-pip install matplotlib
-'''
+```
 
