@@ -17,7 +17,7 @@ To address this difficulty, we propose an improved version of the ESFFT fuzzy de
 
 ### Clear images with sparse textures and it effective response area
 
-<img width="500" alt="1a0ef50f019be93427eb199f64d77fb" src="https://github.com/user-attachments/assets/68d44f5b-3e6d-446e-9721-7f7ded978386">
+<img width="500" alt="e4622134ff55b7838c54a70a92dd23f" src="https://github.com/user-attachments/assets/aaadc793-9657-480e-9c06-73be067a343c">
 <img width="500" alt="a4ba840476af46a659689994b7c0134" src="https://github.com/user-attachments/assets/f3565001-0543-4c6b-a195-2bd578c9d582">
 
 
