@@ -27,3 +27,5 @@ To address this difficulty, we propose an improved version of the ESFFT fuzzy de
 <img width="500" alt="237368f9bed2913843c674327774153" src="https://github.com/user-attachments/assets/3c6f6f5f-2187-48b1-ac18-8ff5fbae6c4a">
 
 
+## Run Demo
+
